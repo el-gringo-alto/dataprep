@@ -1,7 +1,7 @@
 {
 	"name": "DataPrep",
 	"product-name": "DataPrep",
-	"version": "1.0.0",
+	"version": "0.1",
 	"description": "Convert a video for real-time datamoshing",
 	"main": "assets/js/main.js",
 	"scripts": {
