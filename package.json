@@ -7,7 +7,7 @@
 	"scripts": {
 		"start": "electron ."
 	},
-	"repository": "",
+	"repository": "https://github.com/el-gringo-alto/dataprep",
 	"keywords": [
 		"datamosh",
 		"glitch",
