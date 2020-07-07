@@ -1,7 +1,7 @@
 {
 	"name": "DataPrep",
 	"product-name": "DataPrep",
-	"version": "0.1",
+	"version": "0.0.1",
 	"description": "Convert a video for real-time datamoshing",
 	"main": "assets/js/main.js",
 	"scripts": {
@@ -11,12 +11,12 @@
 	"keywords": [
 		"datamosh",
 		"glitch",
-        "glitch-art"
+		"glitch-art"
 	],
 	"author": "Sam Schultheis",
 	"license": "MIT",
 	"dependencies": {
-		"electron": "^8.2.3",
+		"electron": "^8.3.4",
 		"node-ffmpeg": "0.0.0"
 	}
 }
