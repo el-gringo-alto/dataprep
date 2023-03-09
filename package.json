@@ -16,7 +16,7 @@
 	"author": "Sam Schultheis",
 	"license": "MIT",
 	"dependencies": {
-		"electron": "^15.5.5",
+		"electron": "^23.0.0",
 		"node-ffmpeg": "0.0.0"
 	}
 }
